@@ -1,0 +1,22 @@
+{
+  "name": "02_inception",
+  "version": "1.0.0",
+  "description": "Namaste React Course",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/letscodewithkalyan/NamasteReact.git"
+  },
+  "author": "Kalyan Pidugu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/letscodewithkalyan/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/letscodewithkalyan/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
