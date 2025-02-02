@@ -2,7 +2,6 @@
   "name": "02_inception",
   "version": "1.0.0",
   "description": "Namaste React Course",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -17,6 +16,15 @@
   },
   "homepage": "https://github.com/letscodewithkalyan/NamasteReact#readme",
   "devDependencies": {
-    "parcel": "^2.13.3"
-  }
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+    "last 2 chrome versions",
+    "last 2 firefox versions"
+  ]
 }
