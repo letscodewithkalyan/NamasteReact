@@ -1,3 +1,24 @@
 # Topics
 
--
+- Adding scripts in `package.json` (`npm run ...`) instead of running `npx`
+- Understanding JSXElement and ReactElement (both are react objects)
+- Differences between JSX and ReactElement
+- Writing JSX in single-line and multi-line formats
+- Introduction to Babel and its role in JSX transpilation
+- JSX is an HTML-like syntax but not actual HTML (a mix of HTML and JS)
+- Understanding React Components and React Elements
+- Types of React Components:
+  - Class Components
+  - Function Components
+- Function Components:
+  - A normal function that returns JSX or a React Element
+  - Arrow functions with multi-line JSX elements (`(...)`) and explicit return using `{}`
+- Including JavaScript inside JSX using `{}`
+- Component Composition (nesting components inside each other)
+- React Elements inside React Components and vice versa
+- JSX automatically sanitizes data to prevent security vulnerabilities
+- Summary:
+  - **React is JavaScript**
+  - **React Component is a function**
+  - **JSX is a React Element**
+  - **React Element is an object**
