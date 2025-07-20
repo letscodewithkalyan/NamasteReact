@@ -1,0 +1,20 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "Swiggy app",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^6.11.2"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
